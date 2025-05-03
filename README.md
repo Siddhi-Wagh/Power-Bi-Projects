@@ -1,2 +1,2 @@
-# Power-Bi-Projects
-Interactive Power BI dashboards
+# Power-Bi-Project
+Interactive Call Center Power BI dashboard
